@@ -1,1 +1,2 @@
 This is first file commited to git_pratice
+New line has been added to the file1
